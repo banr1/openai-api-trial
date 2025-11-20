@@ -1,4 +1,6 @@
 {
+	"name": "openai-api-trial",
+	"version": "1.0.0",
 	"dependencies": {
 		"@openai/codex": "^0.60.1"
 	}
