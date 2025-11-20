@@ -11,3 +11,6 @@ wheels/
 
 # Node.js
 node_modules/
+
+# Environment variables
+.env
